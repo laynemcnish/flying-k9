@@ -1,0 +1,24 @@
+{
+  "name": "flying-k9",
+  "version": "1.0.0",
+  "description": "Flying K9 Agility Training Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/laynemcnish/flying-k9.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "node"
+  ],
+  "author": "Layne McNish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laynemcnish/flying-k9/issues"
+  },
+  "homepage": "https://github.com/laynemcnish/flying-k9#readme"
+}
